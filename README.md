@@ -1,7 +1,6 @@
 # Healthcare Appointment No-Show Analysis
 
-An end-to-end data analytics project on 110,521 medical appointments (April to June 2016, Brazil). It uses **Python** for cleaning and EDA, **MySQL** for storage and analysis, and **Power BI** for an interactive one-page dashboard to find out why patients miss their appointments.
-
+An end-to-end data analytics project on 110,521 medical appointments (April to June 2016, Brazil). It uses **Python** for cleaning and EDA, **MySQL** for storage and analysis, and **Power BI** for an interactive one-page dashboard to identify patterns and factors associated with missed appointments.
 ![Dashboard](dashboard.png)
 
 ## Key findings
